@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/client.dir/client.cpp.o -o client  -Wl,-rpath,/usr/local/lib /usr/local/lib/libvsomeip3.so.3.5.6 
