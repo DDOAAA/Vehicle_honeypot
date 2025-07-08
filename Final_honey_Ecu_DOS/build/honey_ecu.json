@@ -1,0 +1,19 @@
+{
+  "unicast": "127.0.0.1",
+  "applications": [
+    {
+      "name": "honey_ecu"
+    }
+  ],
+  "services": [
+    {
+      "service": "0x1234",
+      "instance": "0x5678",
+      "eventgroups": []
+    }
+  ],
+  "logging": {
+    "level": "debug"
+  },
+  "routing": "honey_ecu"
+}

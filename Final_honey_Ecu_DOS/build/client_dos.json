@@ -1,0 +1,18 @@
+{
+  "unicast": "127.0.0.1",
+  "applications": [
+    {
+      "name": "client_dos"
+    }
+  ],
+  "services": [
+    {
+      "service": "0x1234",
+      "instance": "0x5678",
+      "reliable": "true"
+    }
+  ],
+  "logging": {
+    "level": "debug"
+  }
+}
