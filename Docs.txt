@@ -2,3 +2,5 @@
 DoS 공격 시뮬레이션 (메시지 전송 약 2000회)
 hoeny_ecu(허니팟) 정상 작동 및 log 기록  
 로그 수집 (세션기반 수신 기록 생성)
+
+vsomeip 기반한 DOS공격: F_honey_ecu.cpp, F_client_dos.cpp
