@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/F_client_dos.dir/F_client_dos.cpp.o -o F_client_dos  -Wl,-rpath,/usr/local/lib /usr/local/lib/libvsomeip3.so.3.5.6 

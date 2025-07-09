@@ -48,6 +48,6 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/honey_ecu.dir/DependInfo.cmake"
-  "CMakeFiles/client_dos.dir/DependInfo.cmake"
+  "CMakeFiles/F_honey_ecu.dir/DependInfo.cmake"
+  "CMakeFiles/F_client_dos.dir/DependInfo.cmake"
   )

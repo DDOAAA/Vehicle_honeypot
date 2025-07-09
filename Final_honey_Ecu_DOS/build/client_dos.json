@@ -2,7 +2,7 @@
   "unicast": "127.0.0.1",
   "applications": [
     {
-      "name": "client_dos"
+      "name": "F_client_dos"
     }
   ],
   "services": [

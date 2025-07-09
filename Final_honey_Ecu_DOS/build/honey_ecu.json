@@ -2,7 +2,7 @@
   "unicast": "127.0.0.1",
   "applications": [
     {
-      "name": "honey_ecu"
+      "name": "F_honey_ecu"
     }
   ],
   "services": [
